@@ -11,7 +11,7 @@ $ apt upgrade
 
 $ pkg install git
 
-$ https://github.com/Knowaskillua/Id-clone
+$ git clone https://github.com/Knowaskillua/Id-clone
 
 $ cd Id-clone
 
